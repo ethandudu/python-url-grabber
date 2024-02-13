@@ -1,4 +1,4 @@
-# License: GPL 3.0
+# License: MIT
 import requests
 from bs4 import BeautifulSoup
 
